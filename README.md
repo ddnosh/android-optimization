@@ -1,0 +1,2 @@
+# optimization
+about android optimizations
